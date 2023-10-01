@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @syifaiswardy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me syifaiswardy@gmail.com
+<h1>👋 Hi, I’m Syifa </h1>
+<br>
+<ul>
+  <li>👀 I’m interested in coding and music</li>
+  <li>🌱 I’m currently learning React.js and other front-end frameworks</li>
+  <li>📌 I’m based in Kajang, Selangor</li>
+  <li>📫 How to reach me: syifaiswardy@gmail.com</li>
+</ul>
 
 <!---
 syifaiswardy/syifaiswardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
