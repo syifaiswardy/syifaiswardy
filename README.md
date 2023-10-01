@@ -2,7 +2,7 @@
 <br>
 <ul>
   <li>👀 I’m interested in coding and music</li>
-  <li>🌱 I’m currently learning React.js and other front-end frameworks</li>
+  <li>🌱 I’m currently learning Laravel and React.js</li>
   <li>📌 I’m based in Kajang, Selangor</li>
   <li>📫 How to reach me: syifaiswardy@gmail.com</li>
 </ul>
